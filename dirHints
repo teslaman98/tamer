@@ -1,0 +1,7 @@
+To make directory:
+mkdir
+to make file in vim:
+vim [filename](.py)
+to run py file:
+python [filename.py]
+
