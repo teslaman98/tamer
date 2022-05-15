@@ -1,3 +1,6 @@
 To enter tutor:
 
 vimtutor
+
+To exit and save vim:
+:wq
